@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Mohammed Husain
+subtitle: M.B.B.S
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: Yenepoya Medical College
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address: Yenepoya Medical College
+city: Mangalore
+state: Karnataka
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: India
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
