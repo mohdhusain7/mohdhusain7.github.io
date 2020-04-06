@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "MOHAMMED HUSAIN"
+landing-title: "MOHAMMED HUSSAIN"
 description: M.B.B.S
 college: Yenepoya Medical College
 image: null
