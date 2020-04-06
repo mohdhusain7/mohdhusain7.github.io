@@ -8,11 +8,14 @@
 
 #banner {
   @include vendor("align-items", "center");
-  @include vendor("background-image", 'url("../images/IMG_4695.JPG")');
+  @include vendor(
+    "background-image",
+    'url("../images/IMG_4695_optimized.JPG")'
+  );
   @include vendor("display", "flex");
   @include padding(4em, 0, (2em, 0, 0, 0));
   background-attachment: fixed;
-  background-position: center;
+  background-position: center 35%;
   background-repeat: no-repeat;
   background-size: cover;
   border-bottom: 0 !important;
@@ -112,26 +115,31 @@
       background-color: _palette(accent1);
     }
   }
+
   &.style2 {
     &:after {
       background-color: _palette(accent2);
     }
   }
+
   &.style3 {
     &:after {
       background-color: _palette(accent3);
     }
   }
+
   &.style4 {
     &:after {
       background-color: _palette(accent4);
     }
   }
+
   &.style5 {
     &:after {
       background-color: _palette(accent5);
     }
   }
+
   &.style6 {
     &:after {
       background-color: _palette(accent6);
