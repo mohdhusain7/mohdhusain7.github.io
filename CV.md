@@ -2,7 +2,7 @@
 layout: page
 title: CV
 description: curriculum vitae
-image: assets/images/cv.jpg
+image: assets/images/cv1.jpg
 nav-menu: true
 ---
 

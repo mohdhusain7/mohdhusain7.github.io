@@ -2,7 +2,7 @@
 title: Workshops
 layout: landing
 description: "Workshops Attended"
-image: assets/images/workshops.jpg
+image: assets/images/workshop.jpg
 nav-menu: true
 ---
 

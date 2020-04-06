@@ -2,7 +2,7 @@
 layout: post
 title: Conferences and Presentations
 description: "Conferences and Presentations"
-image: assets/images/conferences.jpg
+image: assets/images/conference.jpg
 nav-menu: true
 ---
 
