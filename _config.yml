@@ -1,7 +1,7 @@
 # site settings
 title: Mohammed Husain
 subtitle: M.B.B.S
-email: youremailaddress@gmail.com
+email: mohdhusain7@gmail.com
 description: Yenepoya Medical College
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -9,7 +9,7 @@ author:
 street_address: Yenepoya Medical College
 city: Mangalore
 state: Karnataka
-zip_code: 55555
+zip_code: 575018
 country: India
 phone:
 

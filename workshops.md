@@ -1,7 +1,7 @@
 ---
 title: Workshops
 layout: landing
-description: "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla."
+description: "Workshops Attended"
 image: assets/images/workshops.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Conferences and Presentaions
-description: Lorem ipsum dolor est
+title: Conferences and Presentations
+description: "Conferences and Presentations"
 image: assets/images/conferences.jpg
 nav-menu: true
 ---
